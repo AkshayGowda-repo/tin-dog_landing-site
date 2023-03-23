@@ -1,2 +1,2 @@
 # tin-dog_landing-site
-![TinDog site](site.gif)
+![TinDog site](https://i.ibb.co/ggSDPg2/TinDog.png)
